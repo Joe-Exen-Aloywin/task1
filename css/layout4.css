@@ -1,0 +1,130 @@
+.total{
+    display:flex;
+    justify-content:space-around;
+    margin: auto;
+    width: 1240px;
+height: 600px;
+top: 1040px;
+}
+.title{
+    h2{
+        font-family: Jost;
+font-size: 48px;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: -0.5px;
+text-align: center;
+color: #132433;
+    }
+    p{
+        font-family: Jost;
+font-size: 20px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: center;
+color: #557087;
+}
+
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    background: #0045FF;
+    width: 535px;
+    height: 527px;
+    align-items: center;
+    padding-top:40px;
+h2{
+    font-family: Jost;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 1px;
+text-align: left;
+color: #FFFFFF;
+}
+p{
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;   
+}
+.featur{
+    display: flex;
+    align-items: center;
+    gap:30px;
+}
+.but{
+    padding-top:30px;
+button{
+    font-family: Jost;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 1px;
+text-align: center;
+background: #FFFFFF;
+width: 169px;
+height: 56px;
+color: #0045FF;
+border:none;
+border-radius:5px;
+}
+}
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    background: #E0E8F0;
+    width: 535px;
+    height: 527px;
+    align-items: center;
+    padding-top:40px;
+    h2{
+        font-family: Jost;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 1px;
+text-align: left;
+color: #0045FF;        
+    }
+ p{
+    font-family: Jost;
+font-size: 20px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+ color: #557087;
+    }
+    .featur{
+        display: flex;
+        align-items: center;
+        gap:30px;
+    }
+    .feature{
+        gap:30px;
+    }
+    .but{
+        padding-top:30px;
+    button{
+        font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    background: #557087;
+    border: none;
+    border-radius:5px;
+    }
+}
+    }
